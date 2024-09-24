@@ -1,0 +1,8 @@
+font #8b91bf
+
+all main bg #1c213e
+
+half middle bg #242a4c
+
+inner boxes #2b335a
+inner font #9193a4
